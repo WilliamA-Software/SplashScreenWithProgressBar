@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SplashScreenWithProgress</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="description_splashscreen">Updating content...thanks</string>
+</resources>
